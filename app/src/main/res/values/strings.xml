@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MTs Tuan Diah</string>
+    <string name="school_fullname">Madrasah Tsanawiyah Tuan Diah</string>
+    <string name="school_motto">Berakhlak Mulia, Unggul dalam Prestasi dan Iptek Berlandaskan Imtaq</string>
+    <string name="nav_home">Beranda</string>
+    <string name="nav_academic">Akademik</string>
+    <string name="nav_ibadah">Ibadah</string>
+    <string name="nav_ppdb">PPDB</string>
+    <string name="nav_profile">Profil</string>
+</resources>
